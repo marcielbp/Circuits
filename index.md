@@ -11,8 +11,9 @@
 - [Prática 05 - Circuitos Aritméticos](https://marcielbp.github.io/Circuits/lab/pr05)
 - [Prática 06 - Latches - SR e D](https://marcielbp.github.io/Circuits/lab/pr06)
 - [Prática 07 - Flip Flops D E JK](https://marcielbp.github.io/Circuits/lab/pr07)
-- [Prática 08 - Máquina de Moore](https://marcielbp.github.io/Circuits/lab/pr08)
-- [Prática 09 - Unidade Lógica Aritmética](https://marcielbp.github.io/Circuits/lab/pr09)
+- [Prática 08 - Unidade Lógica Aritmética](https://marcielbp.github.io/Circuits/lab/pr08)
+- [Prática 09 - Máquina de Moore](https://marcielbp.github.io/Circuits/lab/pr09)
+- [Prática 10 - Memórias](https://marcielbp.github.io/Circuits/lab/pr10)
 
 ## Simulador Online
 
