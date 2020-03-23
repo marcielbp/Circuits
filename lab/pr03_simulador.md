@@ -78,4 +78,4 @@ Represente o diagrama do circuito usando portas lógicas. Em seguida, implemente
 
 ## PÓS LABORATÓRIO - RELATÓRIO
 
-1.  Envie os circuitos combinacionais implementados pelo SIGAA até o dia 27/03/2020.
+1.  Envie os circuitos combinacionais implementados pelo SIGAA **em um único arquivo docx ou pdf** até o dia 27/03/2020.
