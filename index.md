@@ -16,6 +16,7 @@
 - [Prática 09 - Máquina de Moore](https://marcielbp.github.io/Circuits/lab/pr09)
 - [Prática 10 - Memórias](https://marcielbp.github.io/Circuits/lab/pr10)
 
-## Simulador Online
+## Simulador Offline
+[https://github.com/marcielbp/Digital](https://github.com/marcielbp/Digital)
 
-[https://marcielbp.github.io/Logic-Circuit-Simulator/](https://marcielbp.github.io/Logic-Circuit-Simulator/)
+
