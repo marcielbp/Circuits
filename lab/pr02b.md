@@ -22,7 +22,7 @@
 
 ## Material Necessário:
 
-- Simulador de circuitos digitais [LOGISIM](http://www.cburch.com/logisim/pt/index.html);
+- Simulador de circuitos digitais [DigitalSim](https://github.com/marcielbp/Digital);
 
 ## Operações e Portas Lógicas
 
@@ -106,7 +106,7 @@ Represente a expressão lógica correspondente ao circuito a seguir. Preencha ta
 |1 |1 |0 |
 |1 |1 |1 |
 
-Implementar o circuito acima no [Logisim](http://www.cburch.com/logisim/pt/index.html)
+Implementar o circuito acima no [DigitalSim](https://github.com/marcielbp/Digital).
 
 
 
@@ -133,4 +133,4 @@ Implemente a expressão lógica e o circuito equivalente utilizando portas NOR a
 
 ## IMPLEMENTAÇÃO DO CIRCUITO COM PORTAS NAND E NOR
 
-Implemente o circuito modificado com portas NAND e NOR no [Logisim](http://www.cburch.com/logisim/pt/index.html).
+Implemente o circuito modificado com portas NAND e NOR no [DigitalSim](https://github.com/marcielbp/Digital).
