@@ -26,7 +26,7 @@
 
 ## Operações e Portas Lógicas
 
-## Operação E (AND)
+### Operação E (AND)
 
 - É a primeira das três operações fundamentais da Álgebra Booleana;
 - Pode ser interpretada como:
@@ -37,7 +37,7 @@ operadores forem verdadeiros**
    - **E, AND,** **.** (ponto), **∧**
    - Em expressões/funções Booleanas, a ausência de operador significa que o operador E deve ser inferido
 
-### Tabela Verdade:
+**Tabela Verdade:**
 
 | A | B | A (**e**) B|
 | :--:| :--: | :--: |
@@ -46,7 +46,7 @@ operadores forem verdadeiros**
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
-## Operação OU (OR)
+### Operação OU (OR)
 
 - Segunda operação fundamental. Pode ser interpretada como:
   - **“verdade (1) quando qualquer dos operadores for verdadeiro”**
@@ -54,7 +54,7 @@ operadores forem verdadeiros**
 - Representações alternativas:
    - **OU, OR, +, ∨**
 
-### Tabela Verdade:
+**Tabela Verdade:**
 
 | A | B | A (**ou**) B|
 | :--:| :--: | :--: |
@@ -63,7 +63,7 @@ operadores forem verdadeiros**
 | 1 | 0 | 1 |
 | 1 | 1 | 1 |
 
-## Operação NÃO (NOT)
+### Operação NÃO (NOT)
 
 - Terceira e última das operações fundamentais;
 - Pode ser interpretada como:
@@ -73,9 +73,7 @@ operadores forem verdadeiros**
    - **NÃO, NOT, ~, ¬**
 - Há uma notação muito usada na qual a operação **"não"** é representada com uma barra sobre a variável Booleana. Ex: **Ā**
 
-
-
-### Tabela Verdade:
+**Tabela Verdade:**
 
 | A | **não** A |
 | :--:| :--: |
@@ -111,7 +109,7 @@ Implementar o circuito acima no [DigitalSim](https://github.com/marcielbp/Digita
 
 
 ## PARTE 2 - CONVERSÃO DE CIRCUITO LÓGICO PARA NAND E NOR
-### CONVERSÃO DE CIRCUITO LÓGICO PARA NAND
+**CONVERSÃO DE CIRCUITO LÓGICO PARA NAND**
 
 Faça a conversão do circuito lógico para portas NAND. Use os exemplos a seguir:
 
@@ -121,7 +119,7 @@ Faça a conversão do circuito lógico para portas NAND. Use os exemplos a segui
 
 > EXPRESSÃO LÓGICA : _____________________________
 
-### CONVERSÃO DE CIRCUITO LÓGICO PARA NOR
+**CONVERSÃO DE CIRCUITO LÓGICO PARA NOR**
 
 Implemente a expressão lógica e o circuito equivalente utilizando portas NOR a seguir:
 
@@ -131,6 +129,6 @@ Implemente a expressão lógica e o circuito equivalente utilizando portas NOR a
 | :-: |  :-: | :-: |
 | ![](./pr02/media/image14.png) | ![](./pr02/media/image2.png) | ![](./pr02/media/image15.png) |    
 
-## IMPLEMENTAÇÃO DO CIRCUITO COM PORTAS NAND E NOR
+### IMPLEMENTAÇÃO DO CIRCUITO COM PORTAS NAND E NOR
 
 Implemente o circuito modificado com portas NAND e NOR no [DigitalSim](https://github.com/marcielbp/Digital).
