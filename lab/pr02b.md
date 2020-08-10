@@ -15,18 +15,14 @@
 
 ## OBJETIVOS
 
-- Apresentar o módulo de eletrônica digital e suas principais funcionalidades;
+- Apresentar o simulador de circuitos digitais para uso na disciplina (remota);
 - Conhecer a álgebra de Boole;
 - Conhecer a variedade de portas lógicas disponı́veis e suas combinações;
 - Verificar os métodos de criação e simplificação da Tabela da verdade;
 
 ## Material Necessário:
 
-- Kit Digital;
-- [TTL 74LS00](../assets/datasheets/SN74HC00N.pdf);
-- [TTL 74LS04](../assets/datasheets/SN74HC04N.pdf);
-- [TTL 74LS08](../assets/datasheets/SN74HC08N.pdf);
-- [TTL 74LS32](../assets/datasheets/SN74HC32N.pdf);
+- Simulador de circuitos digitais [LOGISIM](http://www.cburch.com/logisim/pt/index.html);
 
 ## Operações e Portas Lógicas
 
@@ -93,7 +89,7 @@ operadores forem verdadeiros**
 2.  Descreva as principais propriedades das operações da álgebra de Boole.
 3.  Quais funções lógicas básicas podem representar todas as outras funções lógicas básicas
 
-## IMPLEMENTAÇÃO DE CIRCUITO LÓGICO
+## PARTE 1 - IMPLEMENTAÇÃO DE CIRCUITO LÓGICO
 
 Represente a expressão lógica correspondente ao circuito a seguir. Preencha também sua tabela verdade.
 
@@ -110,26 +106,11 @@ Represente a expressão lógica correspondente ao circuito a seguir. Preencha ta
 |1 |1 |0 |
 |1 |1 |1 |
 
-Usando os circuitos integrados a seguir, implementar no KIT o circuito digital correspondente às portas lógicas descritas acima:
-
-CIs Lógicos: **7404 (6-NOT), 7408 (4-AND), 7432 (4-OR)**
+Implementar o circuito acima no [Logisim](http://www.cburch.com/logisim/pt/index.html)
 
 
 
-  | **74LS04**  | |
-  | :-: | :-: |
-  | ![](./pr02/media/image12.png)|  ![](./pr02/media/image5.png)|
-
-  | **74LS08** | |
-  | :-: | :-: |
-  | ![](./pr02/media/image13.png) | ![](./pr02/media/image6.png) |
-
-  | **74LS32** | |
-  | :-: | :-: |
-  | ![](./pr02/media/image7.png) | ![](./pr02/media/image10.png) |
-
-
-## PÓS-LABORATÓRIO - CONVERSÃO DE CIRCUITO LÓGICO PARA NAND E NOR
+## PARTE 2 - CONVERSÃO DE CIRCUITO LÓGICO PARA NAND E NOR
 ### CONVERSÃO DE CIRCUITO LÓGICO PARA NAND
 
 Faça a conversão do circuito lógico para portas NAND. Use os exemplos a seguir:
@@ -149,3 +130,7 @@ Implemente a expressão lógica e o circuito equivalente utilizando portas NOR a
 | | CIRCUITO (NOR) | |
 | :-: |  :-: | :-: |
 | ![](./pr02/media/image14.png) | ![](./pr02/media/image2.png) | ![](./pr02/media/image15.png) |    
+
+## IMPLEMENTAÇÃO DO CIRCUITO COM PORTAS NAND E NOR
+
+Implemente o circuito modificado com portas NAND e NOR no [Logisim](http://www.cburch.com/logisim/pt/index.html).
