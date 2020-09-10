@@ -10,7 +10,7 @@
 > - [Prática 02C - Oficina de Relatórios](https://marcielbp.github.io/Circuits/lab/pr02c)
 - [Prática 03 - Circuitos Combinacionais](https://marcielbp.github.io/Circuits/lab/pr03) (**NOVO** *Atualizado em 11-Aug-2020*)
 - [Prática 04 - BCD e Display 7 Segmentos ](https://marcielbp.github.io/Circuits/lab/pr04)  (**NOVO** *Atualizado em 01-Sep-2020*)
-- [Prática 05 - Circuitos Aritméticos](https://marcielbp.github.io/Circuits/lab/pr05)
+- [Prática 05 - Circuitos Aritméticos](https://marcielbp.github.io/Circuits/lab/pr05)  (**NOVO** *Atualizado em 10-Sep-2020*)
 - [Prática 06 - Latches - SR e D](https://marcielbp.github.io/Circuits/lab/pr06)
 - [Prática 07 - Flip Flops D E JK](https://marcielbp.github.io/Circuits/lab/pr07)
 - [Prática 08 - Unidade Lógica Aritmética](https://marcielbp.github.io/Circuits/lab/pr08)
