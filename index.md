@@ -12,10 +12,8 @@
 - [Prática 04 - BCD e Display 7 Segmentos ](https://marcielbp.github.io/Circuits/lab/pr04)  (**NOVO** *Atualizado em 01-Sep-2020*)
 - [Prática 05 - Circuitos Aritméticos](https://marcielbp.github.io/Circuits/lab/pr05)  (**NOVO** *Atualizado em 10-Sep-2020*)
 - [Prática 06- Flip Flops D E JK](https://marcielbp.github.io/Circuits/lab/pr06) (**NOVO** *Atualizado em 28-Sep-2020*)
-- [Prática 07 - Unidade Lógica Aritmética](https://marcielbp.github.io/Circuits/lab/pr07)
-- [Prática 08 - Máquina de Moore](https://marcielbp.github.io/Circuits/lab/pr08)
+- [Prática 07 - Unidade Lógica Aritmética](https://marcielbp.github.io/Circuits/lab/pr07) **RELATÓRIO** (**NOVO** *Atualizado em 13-Oct-2020*)
+- [Prática 08 - Máquina de Moore](https://marcielbp.github.io/Circuits/lab/pr08) (**NOVO** *Atualizado em 13-Oct-2020*)
 
 ## Simulador Offline
 [https://github.com/marcielbp/Digital](https://github.com/marcielbp/Digital)
-
-
