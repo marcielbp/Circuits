@@ -22,8 +22,15 @@
 ## Material Necessário:
 
 Simuladores:
-- [Logic Circuit Simulator](https://marcielbp.github.io/Logic-Circuit-Simulator/)
-- [Circuitverse](https://circuitverse.org/simulator)
+- [Simulador de circuitos digitais *Digital*](https://github.com/marcielbp/Digital)
+
+Circuitos
+- [TTL 74LS00](../assets/datasheets/SN74HC00N.pdf);
+- [TTL 74LS04](../assets/datasheets/SN74HC04N.pdf);
+- [TTL 74LS08](../assets/datasheets/SN74HC08N.pdf);
+- [TTL 74LS32](../assets/datasheets/SN74HC32N.pdf);
+
+## INTRODUÇÃO
 
 Durante o nosso estudo até agora, nos dedicamos à representação e simplificação de grandezas digitais. Agora, buscaremos a aplicação dos conceitos da eletrônica digital na solução de problemas práticos utilizando a classe de circuitos chamados **combinacionais**.
 
@@ -53,29 +60,44 @@ Projete um circuito que controle a sirene atribuindo as seguintes variáveis *bo
 
 
 1. Determine a expressão lógica para o circuito acima:
-
-2. Implemente o circuito combinacional utilizando o simuladores [Logic Circuit Simulator](https://marcielbp.github.io/Logic-Circuit-Simulator/) e  [Circuitverse](https://circuitverse.org/simulator)
-
-### PROBLEMA 2
-
-Uma companhia instituiu o seguinte controle para o acesso de seus três
-estacionamentos. Cada empregado tem um cartão que deve ser inserido numa
-brecha especial que existe em cada portão. O portão só abre se o
-empregado estiver autorizado a usar o estacionamento.
-
-
-
-![](./pr03/media/image8.png)
-
-Escreva o mapa-K para as três entradas $x_1$, $x_2$ e $x_3$, representar a expressão lógica do circuito e implemente em protoboard.
-
 | EXPRESSÃO LÓGICA  |
 |  :-: |
 | _____________________________|
 
+2. Represente o diagrama do circuito usando portas lógicas no [Simulador de circuitos digitais *Digital*](https://github.com/marcielbp/Digital). Salve em um arquivo nomeado `pr03_prob1-1.dig`. Ponha o nome da equipe como texto no circuito.
+3. Implemente o mesmo circuito utilizando os CIs lógicos a seguir em vez de portas lógicas. Salve em um arquivo nomeado `pr3_prob1-2.dig`. Ponha o nome da equipe como texto no circuito.
 
-Represente o diagrama do circuito usando portas lógicas. Em seguida, implemente o circuito combinacional utilizando o simuladores [Logic Circuit Simulator](https://marcielbp.github.io/Logic-Circuit-Simulator/) e  [Circuitverse](https://circuitverse.org/simulator)
+CIs Lógicos: **7404 (6-NOT), 7408 (4-AND), 7432 (4-OR)**
+
+
+  | **74LS04**  | |
+  | :-: | :-: |
+  | ![](./pr02/media/image12.png)|  ![](./pr02/media/image5.png)|
+
+  | **74LS08** | |
+  | :-: | :-: |
+  | ![](./pr02/media/image13.png) | ![](./pr02/media/image6.png) |
+
+  | **74LS32** | |
+  | :-: | :-: |
+  | ![](./pr02/media/image7.png) | ![](./pr02/media/image10.png) |
+
+### PROBLEMA 2
+
+Uma companhia instituiu o seguinte controle para o acesso de seus três estacionamentos. Cada empregado tem um cartão que deve ser inserido numa brecha especial que existe em cada portão. O portão só abre se o empregado estiver autorizado a usar o estacionamento.
+
+
+![](./pr03/media/image8.png)
+
+1. Escreva o mapa-K para as três entradas $x_1$, $x_2$ e $x_3$, representar a expressão lógica do circuito e implemente em protoboard.
+
+| EXPRESSÃO LÓGICA  |
+|  :-: |
+| _____________________________
+
+2. Represente o diagrama do circuito usando portas lógicas no simulador. Salve em um arquivo nomeado `pr3_prob2-1.dig`. Ponha o nome da equipe como texto no circuito.
+3. Em seguida, implemente o circuito combinacional utilizando o [Simulador de circuitos digitais *Digital*](https://github.com/marcielbp/Digital) e os CIs lógicos utilizados no problema 1. Salve em um arquivo nomeado `pr3_prob2-2.dig`. Ponha o nome da equipe como texto no circuito.
 
 ## PÓS LABORATÓRIO - RELATÓRIO
 
-1.  Envie os circuitos combinacionais implementados pelo SIGAA **em um único arquivo docx ou pdf** até o dia 27/03/2020.
+1.  Envie o relatório da prática e os arquivos em um **único arquivo zipado** até o dia 14/02/2021. O relatório deve estar de acordo com [este modelo](https://marcielbp.github.io/Circuits/lab/pr02c) **em docx ou pdf** e os arquivos de simulação em formato **.dig**.
